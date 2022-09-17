@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/41cee427a8a03f9b1608b818aa7c6b82_ProbHEIsolns.pdf
+file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/41cee427a8a03f9b1608b818aa7c6b82_ProbHEIsolns.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: ProbHEIsolns.pdf

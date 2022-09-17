@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/4a85e45ae23cf556f1fc61b8307d9799_Probpde3d.pdf
+file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/4a85e45ae23cf556f1fc61b8307d9799_Probpde3d.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: Probpde3d.pdf

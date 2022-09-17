@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/f672c80e9c8932350eef3a0614f0693e_ProbWave1.pdf
+file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/f672c80e9c8932350eef3a0614f0693e_ProbWave1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: ProbWave1.pdf

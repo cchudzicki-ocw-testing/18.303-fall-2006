@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-303-linear-partial-differential-equations-fall-2006/020ed712d91d7775d4d2ac743dc2fd8b_ProbQuasi.pdf
+file: /media/courses/18-303-linear-partial-differential-equations-fall-2006/020ed712d91d7775d4d2ac743dc2fd8b_ProbQuasi.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: ProbQuasi.pdf

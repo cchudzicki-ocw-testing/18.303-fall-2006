@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Exams section contains the final exams, tests and exam preparation files.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
